@@ -1,0 +1,604 @@
+Uri: https://premiumlayers.com/html/infinity/?storefront=envato-elements
+File Name: D:\premiumlayers.com\html\infinity\index.htm
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/images/bg/bg-parallax.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\bg\bg-parallax.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/favicon.ico
+File Name: D:\premiumlayers.com\html\infinity\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800
+File Name: D:\premiumlayers.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,700
+File Name: D:\premiumlayers.com\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,700,800,900,300,100
+File Name: D:\premiumlayers.com\css-2.css
+Content Type: text/css
+
+Uri: http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+File Name: D:\premiumlayers.com\ionicons\2.0.1\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://premiumlayers.com/html/infinity/css/bootstrap/bootstrap.min.css
+File Name: D:\premiumlayers.com\html\infinity\css\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://premiumlayers.com/html/infinity/css/font-awesome.min.css
+File Name: D:\premiumlayers.com\html\infinity\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://premiumlayers.com/html/infinity/css/main.css
+File Name: D:\premiumlayers.com\html\infinity\css\main.css
+Content Type: text/css
+
+Uri: https://premiumlayers.com/html/infinity/css/style.css
+File Name: D:\premiumlayers.com\html\infinity\css\style.css
+Content Type: text/css
+
+Uri: https://premiumlayers.com/html/infinity/css/responsive.css
+File Name: D:\premiumlayers.com\html\infinity\css\responsive.css
+Content Type: text/css
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/css/settings.css
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\css\settings.css
+Content Type: text/css
+
+Uri: https://premiumlayers.com/html/infinity/index.html
+File Name: D:\premiumlayers.com\html\infinity\index.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/about.html
+File Name: D:\premiumlayers.com\html\infinity\about.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/services.html
+File Name: D:\premiumlayers.com\html\infinity\services.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/case-studies.html
+File Name: D:\premiumlayers.com\html\infinity\case-studies.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/index-1.html
+File Name: D:\premiumlayers.com\html\infinity\index-1.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/case-studies-single.html
+File Name: D:\premiumlayers.com\html\infinity\case-studies-single.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/blog.html
+File Name: D:\premiumlayers.com\html\infinity\blog.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/blog-single.html
+File Name: D:\premiumlayers.com\html\infinity\blog-single.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/contact.html
+File Name: D:\premiumlayers.com\html\infinity\contact.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/404-page.html
+File Name: D:\premiumlayers.com\html\infinity\404-page.html
+Content Type: text/html
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/modernizr.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\modernizr.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/images/logo.png
+File Name: D:\premiumlayers.com\html\infinity\images\logo.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/slides/slide-bg-1.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\slides\slide-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/slides/img--1-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\slides\img--1-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/slides/slide-bg-2.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\slides\slide-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/slides/img--2-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\slides\img--2-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/icon-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\icon-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/icon-2.png
+File Name: D:\premiumlayers.com\html\infinity\images\icon-2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/icon-3.png
+File Name: D:\premiumlayers.com\html\infinity\images\icon-3.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/icon-4.png
+File Name: D:\premiumlayers.com\html\infinity\images\icon-4.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/ipad.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\ipad.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/list-icon-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\list-icon-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/list-icon-2.png
+File Name: D:\premiumlayers.com\html\infinity\images\list-icon-2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/list-icon-3.png
+File Name: D:\premiumlayers.com\html\infinity\images\list-icon-3.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/list-icon-4.png
+File Name: D:\premiumlayers.com\html\infinity\images\list-icon-4.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/services-img.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\services-img.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/case-img-1.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\case-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/case-img-2.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\case-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/case-img-3.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\case-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/plan-icon-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\plan-icon-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/plan-icon-2.png
+File Name: D:\premiumlayers.com\html\infinity\images\plan-icon-2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/plan-icon-3.png
+File Name: D:\premiumlayers.com\html\infinity\images\plan-icon-3.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/work-folow-img.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\work-folow-img.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/flow-icon-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\flow-icon-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/flow-icon-2.png
+File Name: D:\premiumlayers.com\html\infinity\images\flow-icon-2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/flow-icon-3.png
+File Name: D:\premiumlayers.com\html\infinity\images\flow-icon-3.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/flow-icon-4.png
+File Name: D:\premiumlayers.com\html\infinity\images\flow-icon-4.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/client-img-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\client-img-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/client-img-2.png
+File Name: D:\premiumlayers.com\html\infinity\images\client-img-2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/client-img-3.png
+File Name: D:\premiumlayers.com\html\infinity\images\client-img-3.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/client-img-4.png
+File Name: D:\premiumlayers.com\html\infinity\images\client-img-4.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/client-img-5.png
+File Name: D:\premiumlayers.com\html\infinity\images\client-img-5.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/testi-img-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\testi-img-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/testi-thumb-img-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\testi-thumb-img-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/testi-thumb-img-2.png
+File Name: D:\premiumlayers.com\html\infinity\images\testi-thumb-img-2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/testi-thumb-img-3.png
+File Name: D:\premiumlayers.com\html\infinity\images\testi-thumb-img-3.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/testi-thumb-img-4.png
+File Name: D:\premiumlayers.com\html\infinity\images\testi-thumb-img-4.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/new-1.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\new-1.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/avatar-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\avatar-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/new-2.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\new-2.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/logo-footer.png
+File Name: D:\premiumlayers.com\html\infinity\images\logo-footer.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/jquery/jquery.min.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/wow.min.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\wow.min.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/bootstrap.min.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/own-menu.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\own-menu.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/flexslider/jquery.flexslider-min.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\flexslider\jquery.flexslider-min.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/jquery.countTo.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/jquery.isotope.min.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\jquery.isotope.min.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/jquery.bxslider.min.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/owl.carousel.min.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/vendors/jquery.sticky.js
+File Name: D:\premiumlayers.com\html\infinity\js\vendors\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/js/jquery.themepunch.tools.min.js
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/js/jquery.themepunch.revolution.min.js
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/js/main.js
+File Name: D:\premiumlayers.com\html\infinity\js\main.js
+Content Type: application/javascript
+
+Uri: https://premiumlayers.com/html/infinity/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: D:\premiumlayers.com\html\infinity\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://premiumlayers.com/html/infinity/fonts/fontawesome-webfont.eot?
+File Name: D:\premiumlayers.com\html\infinity\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://premiumlayers.com/html/infinity/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: D:\premiumlayers.com\html\infinity\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://premiumlayers.com/html/infinity/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: D:\premiumlayers.com\html\infinity\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://premiumlayers.com/html/infinity/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: D:\premiumlayers.com\html\infinity\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://premiumlayers.com/html/infinity/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: D:\premiumlayers.com\html\infinity\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://premiumlayers.com/html/infinity/css/animate.css
+File Name: D:\premiumlayers.com\html\infinity\css\animate.css
+Content Type: text/css
+
+Uri: https://premiumlayers.com/html/infinity/images/top-left-bar.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\top-left-bar.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/top-right-bar.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\top-right-bar.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/bg/sub-banner.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\bg\sub-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/images/gradient/g30.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\images\gradient\g30.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/images/gradient/g40.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\images\gradient\g40.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/shadow1.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\shadow1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/shadow2.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\shadow2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/shadow3.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\shadow3.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/gridtile.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/gridtile_white.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/gridtile_3x3.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/gridtile_3x3_white.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/boxed_bgtile.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\boxed_bgtile.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/navigdots_bgtile.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\navigdots_bgtile.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/bullet.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\bullet.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/bullets.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\bullets.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/bullets2.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\bullets2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/bullet_boxed.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\bullet_boxed.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/navigdots.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\navigdots.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/large_left.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\large_left.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/large_right.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\large_right.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/small_left.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\small_left.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/small_right.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\small_right.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/arrow_left.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\arrow_left.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/arrow_right.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\arrow_right.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/small_left_boxed.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\small_left_boxed.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/small_right_boxed.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\small_right_boxed.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/arrowleft.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\arrowleft.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/arrowright.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\arrowright.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/arrow_left2.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\arrow_left2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/arrow_right2.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\arrow_right2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/timer.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\timer.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/coloredbg.png
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/assets/loader.gif
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/font/revicons.eot?5510888
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\font\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/font/revicons.woff?5510888
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\font\revicons.woff
+Content Type: font/woff
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/font/revicons.ttf?5510888
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\font\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://premiumlayers.com/html/infinity/rs-plugin/font/revicons.svg?5510888
+File Name: D:\premiumlayers.com\html\infinity\rs-plugin\font\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://premiumlayers.com/html/infinity/images/team-1.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/team-2.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/team-3.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/process.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\process.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/avatar-2.png
+File Name: D:\premiumlayers.com\html\infinity\images\avatar-2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/clients-logo-1.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\clients-logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/clients-logo-2.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\clients-logo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/clients-logo-3.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\clients-logo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/clients-logo-4.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\clients-logo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/clients-logo-5.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\clients-logo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/clients-logo-6.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\clients-logo-6.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/case-img-4.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\case-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/case-img-5.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\case-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/case-img-6.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\case-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/bg/report-bg.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\bg\report-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/report-img.png
+File Name: D:\premiumlayers.com\html\infinity\images\report-img.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/bg/bg-parallax-1.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\bg\bg-parallax-1.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/case-single-1.png
+File Name: D:\premiumlayers.com\html\infinity\images\case-single-1.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/case-single-2.png
+File Name: D:\premiumlayers.com\html\infinity\images\case-single-2.png
+Content Type: image/png
+
+Uri: https://premiumlayers.com/html/infinity/images/blog-img-1.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\blog-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/blog-img-2.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\blog-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/blog-img-3.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\blog-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/blog-img-4.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\blog-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/blog-img-5.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\blog-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/com-avatar-1.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\com-avatar-1.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/com-avatar-2.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\com-avatar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://premiumlayers.com/html/infinity/images/com-avatar-3.jpg
+File Name: D:\premiumlayers.com\html\infinity\images\com-avatar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBg0VrLjLvDLSQdS7hw6OfZJmvHhtEV_sE
+File Name: D:\premiumlayers.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://premiumlayers.com/html/infinity/images/404-number.png
+File Name: D:\premiumlayers.com\html\infinity\images\404-number.png
+Content Type: image/png
+
